@@ -3,16 +3,16 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary-light': 'hsl(215, 32%, 27%)',
-        'primary-base': 'hsl(216, 50%, 16%)',
-        'primary-dark': 'hsl(217, 54%, 11%)',
+        'primary-light': 'hsl(224, 23%, 55%)',
+        'primary-base': 'hsl(245, 75%, 52%)',
+        'primary-dark': 'hsl(223, 47%, 23%)',
 
-        'secondary-light': 'hsl(215, 51%, 70%)',
-        'secondary-base': 'hsl(178, 100%, 50%)',
+        'secondary-light': 'hsl(225, 100%, 98%)',
+        'secondary-bass': 'hsl(225, 100%, 94%)',
       },
 
       fontFamily: {
-        qutfit: ["'Outfit'", 'sans-serif'],
+        primary: ["'Red Hat Display'", 'sans-serif'],
       },
     },
   },
